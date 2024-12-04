@@ -137,6 +137,13 @@ Here's the UNO Pinout:
 
 This is already a huge mess, but I think we'll be able to figure out a lot once the parts get here.
 
+### 12/3/24
+The Arduino Uno ain't doing it. I'm gonna pivot to the Raspberry Pi.
+
+Pls don't steal my wifi :(
+
+![RaspberryPiSetup.png](RaspberryPiSetup.png)
+
 ## Useful Links
 
 -[GitHub Repo using an Arduino](https://github.com/Trasselfrisyr/NuEVI)
