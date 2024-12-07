@@ -4,11 +4,7 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="56729b73-8f0b-41e6-b9da-9fff9860d98a" name="Changes" comment="First night working: Documented downloading the code and whatnot">
-      <change afterPath="$PROJECT_DIR$/RaspberryPiSetup.png" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/README.md" beforeDir="false" afterPath="$PROJECT_DIR$/README.md" afterDir="false" />
-    </list>
+    <list default="true" id="56729b73-8f0b-41e6-b9da-9fff9860d98a" name="Changes" comment="Trying to access RaspberryPi :(" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -62,7 +58,7 @@
       <updated>1733049884718</updated>
       <workItem from="1733049899954" duration="3707000" />
       <workItem from="1733097410441" duration="7005000" />
-      <workItem from="1733284062713" duration="350000" />
+      <workItem from="1733284062713" duration="1011000" />
     </task>
     <task id="LOCAL-00001" summary="First night working: Documented downloading the code and whatnot">
       <option name="closed" value="true" />
@@ -72,7 +68,15 @@
       <option name="project" value="LOCAL" />
       <updated>1733211831050</updated>
     </task>
-    <option name="localTasksCounter" value="2" />
+    <task id="LOCAL-00002" summary="Trying to access RaspberryPi :(">
+      <option name="closed" value="true" />
+      <created>1733348575441</created>
+      <option name="number" value="00002" />
+      <option name="presentableId" value="LOCAL-00002" />
+      <option name="project" value="LOCAL" />
+      <updated>1733348575441</updated>
+    </task>
+    <option name="localTasksCounter" value="3" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -81,6 +85,7 @@
   <component name="VcsManagerConfiguration">
     <option name="ADD_EXTERNAL_FILES_SILENTLY" value="true" />
     <MESSAGE value="First night working: Documented downloading the code and whatnot" />
-    <option name="LAST_COMMIT_MESSAGE" value="First night working: Documented downloading the code and whatnot" />
+    <MESSAGE value="Trying to access RaspberryPi :(" />
+    <option name="LAST_COMMIT_MESSAGE" value="Trying to access RaspberryPi :(" />
   </component>
 </project>
