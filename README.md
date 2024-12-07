@@ -144,6 +144,14 @@ Pls don't steal my wifi :(
 
 ![RaspberryPiSetup.png](RaspberryPiSetup.png)
 
+### 12/7/24
+
+I was kidding! We're going back to the Arduino because I can't connect to the Pi :P
+
+My professor suggested making a laptop instrument. Now, I'm not gonna do that, but I do think making my laptop a part of the setup is going to make life a LOT easier. I saw someone using an arduino hooked up to MaxMSP. Now, that's a good idea, but I just don't really use Max, and you have to pay if you want to save your own patches, so I'm going to avoid it as much as I can. 
+
+I found [this](https://www.instructables.com/Send-and-Receive-MIDI-with-Arduino/) instructables online which has a lot of very good info. I was having problems getting REAPER to recognize my Arduino as a USBMIDI Device. But it looks like you can use this program called Hairless MIDI to fix that connection (Bridge Serial over to MIDI).
+
 ## Useful Links
 
 -[GitHub Repo using an Arduino](https://github.com/Trasselfrisyr/NuEVI)
