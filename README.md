@@ -19,8 +19,6 @@ Using:
 - Prototyping elements made from 3D Printing & Lasercutting
 - Misc. Hardware
 
-## Rough Sketches
-
 ## Wiring
 After finding the NuEVI repo, I'm gonna start with the wiring so that I can map out what components I need.
 
@@ -29,6 +27,8 @@ After finding the NuEVI repo, I'm gonna start with the wiring so that I can map 
 Thank you [random stackoverflow guy](https://stackoverflow.com/a/1871311)!
 Imma do that.
 
+## Daily Log
+<details>
 ### 12/2/24
 
 Mainly just getting things set up in the repo. Have a presentation to give on this tomorrow, so I might lowkey just pull
@@ -156,7 +156,12 @@ I found [this](https://www.instructables.com/Send-and-Receive-MIDI-with-Arduino/
 
 I was able to get into Lacy Hall today and throw this together with some scraps. I also soldered the pins on my capacitive touch board and pressure sensor, so now I can hopefully start putting things together.
 
+### 12/12/24
 
+At long last, I have done it. The final prototype uses an Arduino Uno to read data from the capacitive touch board and pressure sensor, and sends it via serial to a Maxmsp patch that I wrote that sends it as MIDI data. I then use loopmidi in order to route the MIDI over a virtual port in between Max and REAPER. This took a TON of work, and I was kinda racing the clock with it, so I didn't really document anything until now. 
+
+I need to do the write-up for my assignment part of this asap, so I'll come back to this later (hopefully), but everything is here, and decently documented. The code I ended up going with is the BareMinimum.ino folder, and the max patch is called EVI-something-or-other.
+</details>
 
 ## Useful Links
 
