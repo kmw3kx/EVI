@@ -152,6 +152,12 @@ My professor suggested making a laptop instrument. Now, I'm not gonna do that, b
 
 I found [this](https://www.instructables.com/Send-and-Receive-MIDI-with-Arduino/) instructables online which has a lot of very good info. I was having problems getting REAPER to recognize my Arduino as a USBMIDI Device. But it looks like you can use this program called Hairless MIDI to fix that connection (Bridge Serial over to MIDI).
 
+![Prototype1](ValveBlockPrototype.jpg)
+
+I was able to get into Lacy Hall today and throw this together with some scraps. I also soldered the pins on my capacitive touch board and pressure sensor, so now I can hopefully start putting things together.
+
+
+
 ## Useful Links
 
 -[GitHub Repo using an Arduino](https://github.com/Trasselfrisyr/NuEVI)
